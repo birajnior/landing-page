@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario ca copa" src=".github/preview.jpg" width="100%">
+  <img alt="Landing Page" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,22 +26,17 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
-- Git e Github
-
 
 ## 💻 Projeto
 
-O Calendário da copa é um projeto que mostra os jogos da Copa de 2022.
+Para treinar meus conhecimentos de HTML e CSS fiz essa landing page tentando fazer o máximo possível sem acompanhar a vídeo aula. 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/4j8jBSX12U3TA3Nncsi4Ex/NLW-Copa-Explorer). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=2%3A2&t=TnAGhrvR9QZueewI-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+Você também pode visualizar a vídeo aular atráves [DESSE LINK](https://www.youtube.com/watch?v=llF6vD-RljE&t=719s&ab_channel=RafaellaBallerini).
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
