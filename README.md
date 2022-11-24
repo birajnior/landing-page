@@ -1,7 +1,7 @@
 <h1 align="center"> LANDING PAGE </h1>
 
 <p align="center">
-Layout desse landing page feito pela Rafaella Ballerini.
+Layout desse landing page feito pela <a href="https://www.linkedin.com/in/rafaellaballerini/">Rafaella Ballerini.</a>
 </p>
 
 <p align="center">
