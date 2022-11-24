@@ -1,7 +1,7 @@
 <h1 align="center"> LANDING PAGE </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Layout desse landing page feito pela Rafaella Ballerini.
 </p>
 
 <p align="center">
